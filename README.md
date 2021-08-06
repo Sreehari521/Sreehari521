@@ -1,5 +1,6 @@
 # Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sreehari521&theme=onedark)](https://github.com/Sreehari521/github-profile-trophy)
 ### I am from India
 ### My name is Sreehari
 ### I am a programmer who loves Space
