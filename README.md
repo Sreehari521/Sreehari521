@@ -15,7 +15,10 @@
 ### HTML
 ### CSS
 ### JavaScript
+### JSON
 ### MarkDown
+### SQL
+### PHP
 ### C++(Not that much)
 
 ## What I Like:
