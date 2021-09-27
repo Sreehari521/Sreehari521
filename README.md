@@ -19,7 +19,7 @@
 ### MarkDown
 ### SQL
 ### PHP
-### C++(Not that much)
+### C++
 
 ## What I Like:
 
